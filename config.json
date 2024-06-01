@@ -1,5 +1,5 @@
 {
-    "api": "https://tutorial-wally-registry-backend-mmr4ezmpha-uc.a.run.app",
+    "api": "https://wally-backend-uhljx4e4bq-uc.a.run.app",
     "fallback_registries": [
         "https://github.com/UpliftGames/wally-index"
     ]
